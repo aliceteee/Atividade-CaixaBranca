@@ -40,7 +40,8 @@ Sistema-de-Pedidos/
 ├── index.html
 ├── style.css
 ├── script.js
-├── scriptnovo.js
+├── scriptcorrigido.js
+├── Teste de Caixa Branca - Sistema de Pedidos.pdf
 └── README.md
 ```
 
@@ -103,7 +104,7 @@ Entre os cenários avaliados, destacam-se:
 
 ## 🔧 Versão corrigida
 
-O arquivo `scriptnovo.js` contém a versão corrigida do código, desenvolvida após a identificação dos problemas encontrados durante os testes.
+O arquivo `scriptcorrigido.js` contém a versão corrigida do código, desenvolvida após a identificação dos problemas encontrados durante os testes.
 
 As alterações foram realizadas principalmente nas condições de validação, nos limites de estoque, nas regras de desconto e na classificação dos pedidos.
 
